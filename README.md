@@ -4,7 +4,7 @@
 
 ---
 
-### Why the empty garden? 
+### Why the empty profile? 
 
 My GitHub looks quiet because Im heavily utilized at work having ownership or contributing to most of the high impact high visibility projects at my employer
 
